@@ -1,2 +1,2 @@
-boss,NetID,LastName,FirstName
-Yangfan Xiao,xiao248,Xiao,Yangfan
+boss,kerbywhite,Kerby-White,Jonathan
+employee,xiao248,Xiao,Yangfan
